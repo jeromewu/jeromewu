@@ -1,6 +1,5 @@
 ### Hi there, I am Jerome 👋
 
-
 ## I am a Coder and Writer
 - 🔭 I’m currently working on [tesseract.js][tesseract.js], [ffmpeg.wasm][ffmpeg.wasm] and [gitpod-window][gitpod-window]
 - 📖 I published technical posts on [Medium][medium] and [my personal blog][website]
@@ -28,7 +27,7 @@
 <img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
-
+![visiters](https://visitor-badge.glitch.me/badge?page_id=jeromewu.jeromewu)
 ---
 
 <details>
