@@ -27,7 +27,7 @@
 <img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
-![visiters](https://visitor-badge.glitch.me/badge?page_id=jeromewu.jeromewu)
+
 ---
 
 <details>
@@ -44,17 +44,4 @@
 [linkedin]: https://www.linkedin.com/in/wenchiehwu/
 [medium]: https://jeromewus.medium.com/
 
-<!--
-**jeromewu/jeromewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visiters](https://visitor-badge.glitch.me/badge?page_id=jeromewu.jeromewu)
