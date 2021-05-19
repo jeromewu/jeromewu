@@ -33,8 +33,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jerome's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeromewu&show_icons=true&hide_border=true" />
+  <img alt="Jerome's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeromewu&show_icons=true&hide_border=true" />
 </details>
+
+![visiters](https://visitor-badge.glitch.me/badge?page_id=jeromewu.jeromewu)
 
 [tesseract.js]: https://github.com/naptha/tesseract.js
 [ffmpeg.wasm]: https://github.com/ffmpegwasm/ffmpeg.wasm
@@ -44,4 +46,3 @@
 [linkedin]: https://www.linkedin.com/in/wenchiehwu/
 [medium]: https://jeromewus.medium.com/
 
-![visiters](https://visitor-badge.glitch.me/badge?page_id=jeromewu.jeromewu)
