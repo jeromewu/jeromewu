@@ -2,7 +2,7 @@
 
 
 ## I am a Coder and Writer
-- 🔭 I’m currently working on [tesseract.js][tesseract.js] and [ffmpeg.wasm][ffmpeg.wasm]
+- 🔭 I’m currently working on [tesseract.js][tesseract.js], [ffmpeg.wasm][ffmpeg.wasm] and [gitpod-window][gitpod-window]
 - 📖 I published technical posts on [Medium][medium] and [my personal blog][website]
 
 ### Connect with me:
@@ -39,6 +39,7 @@
 
 [tesseract.js]: https://github.com/naptha/tesseract.js
 [ffmpeg.wasm]: https://github.com/ffmpegwasm/ffmpeg.wasm
+[gitpod-window]: https://github.com/jeromewu/gitpod-window
 [website]: https://jeromewu.github.io
 [gmail]: mailto:jeromewus@gmail.com
 [linkedin]: https://www.linkedin.com/in/wenchiehwu/
