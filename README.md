@@ -1,7 +1,7 @@
 ### Hi there, I am Jerome 👋
 
 ## I am a Coder and Writer
-- 🔭 I’m currently working on [libav.wasm][libav.wasm], [tesseract.js][tesseract.js], [ffmpeg.wasm][ffmpeg.wasm] and [gitpod-window][gitpod-window]
+- 🔭 I used to work on [libav.wasm][libav.wasm], [tesseract.js][tesseract.js], [ffmpeg.wasm][ffmpeg.wasm] and [gitpod-window][gitpod-window]
 - 📖 I published technical posts on [Medium][medium] and [my personal blog][website]
 
 ### Connect with me:
